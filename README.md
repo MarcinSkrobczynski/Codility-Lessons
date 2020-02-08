@@ -35,3 +35,11 @@ PassingCars       | [LINK](https://app.codility.com/demo/results/trainingQ8RZJN-
 GenomicRangeQuery | [LINK](https://app.codility.com/demo/results/trainingS58RVG-9UV/ "100% result")
 MinAvgTwoSlice    | [LINK](https://app.codility.com/demo/results/trainingKKKNFD-FYK/ "100% result")
 CountDiv          | [LINK](https://app.codility.com/demo/results/trainingYC49JJ-VAB/ "100% result")
+
+## Lesson 6: Sorting
+Name                      | Link
+--------------------------| ----
+Triangle                  | [LINK](https://app.codility.com/demo/results/trainingYT87A2-BJH/ "100% result")
+MaxProductOfThree         | [LINK](XYZ "100% result")
+Distinct                  | [LINK](XYZ "100% result")
+NumberOfDiscIntersections | [LINK](XYZ "100% result")
