@@ -1,6 +1,6 @@
 import unittest
 
-from solutions.lesson_3_FrogJmp import solution
+from solutions.lesson_3.FrogJmp import solution
 
 
 class TestFrogJmp(unittest.TestCase):

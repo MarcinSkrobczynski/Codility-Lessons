@@ -1,9 +1,9 @@
 import unittest
 
-from solutions.lesson_4_MaxCounters import solution
+from solutions.lesson_4.MaxCounters import solution
 
 
-class TestBinaryGap(unittest.TestCase):
+class TestMaxCounters(unittest.TestCase):
     def test_codility(self):
         self.assertListEqual(solution(5, [3, 4, 4, 6, 1, 4, 4]), [3, 2, 2, 4, 2])
 

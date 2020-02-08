@@ -1,9 +1,9 @@
 import unittest
 
-from solutions.lesson_4_MissingInteger import solution
+from solutions.lesson_4.MissingInteger import solution
 
 
-class TestBinaryGap(unittest.TestCase):
+class TestMissingInteger(unittest.TestCase):
     def test_codility(self):
         self.assertEqual(solution([1, 3, 6, 4, 1, 2]), 5)
         self.assertEqual(solution([1, 2, 3]), 4)

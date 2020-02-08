@@ -1,7 +1,7 @@
 import random
 import unittest
 
-from solutions.lesson_3_PermMissingElem import solution
+from solutions.lesson_3.PermMissingElem import solution
 
 
 class TestPermMissingElem(unittest.TestCase):

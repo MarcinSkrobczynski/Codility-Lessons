@@ -1,6 +1,6 @@
 import unittest
 
-from solutions.lesson_1_BinaryGap import solution
+from solutions.lesson_1.BinaryGap import solution
 
 
 class TestBinaryGap(unittest.TestCase):

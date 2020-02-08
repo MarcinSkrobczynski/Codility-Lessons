@@ -1,7 +1,7 @@
 import random
 import unittest
 
-from solutions.lesson_2_OddOccurrencesInArray import solution
+from solutions.lesson_2.OddOccurrencesInArray import solution
 
 
 class TestOddOccurrencesInArray(unittest.TestCase):

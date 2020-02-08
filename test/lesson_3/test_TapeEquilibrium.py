@@ -1,6 +1,6 @@
 import unittest
 
-from solutions.lesson_3_TapeEquilibrium import solution
+from solutions.lesson_3.TapeEquilibrium import solution
 
 
 class TestTapeEquilibrium(unittest.TestCase):

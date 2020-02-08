@@ -1,6 +1,6 @@
 import unittest
 
-from solutions.lesson_2_CyclicRotation import solution
+from solutions.lesson_2.CyclicRotation import solution
 
 
 class TestCyclicRotation(unittest.TestCase):

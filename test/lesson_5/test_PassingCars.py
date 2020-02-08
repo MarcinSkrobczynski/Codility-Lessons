@@ -1,9 +1,9 @@
 import unittest
 
-from solutions.lesson_5_PassingCars import solution
+from solutions.lesson_5.PassingCars import solution
 
 
-class TestBinaryGap(unittest.TestCase):
+class TestPassingCars(unittest.TestCase):
     def test_codility(self):
         self.assertEqual(solution([0, 1, 0, 1, 1]), 5)
 

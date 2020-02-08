@@ -1,10 +1,10 @@
 import unittest
 import random
 
-from solutions.lesson_4_PermCheck import solution
+from solutions.lesson_4.PermCheck import solution
 
 
-class TestBinaryGap(unittest.TestCase):
+class TestPermCheck(unittest.TestCase):
     def test_codility(self):
         self.assertEqual(solution([4, 1, 3, 2]), 1)
         self.assertEqual(solution([4, 1, 3]), 0)

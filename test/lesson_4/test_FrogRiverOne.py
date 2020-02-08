@@ -1,9 +1,9 @@
 import unittest
 
-from solutions.lesson_4_FrogRiverOne import solution
+from solutions.lesson_4.FrogRiverOne import solution
 
 
-class TestBinaryGap(unittest.TestCase):
+class TestFrogRiverOne(unittest.TestCase):
     def test_codility(self):
         self.assertEqual(solution(5, [1, 3, 1, 4, 2, 3, 5, 4]), 6)
 
