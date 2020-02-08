@@ -41,5 +41,5 @@ Name                      | Link
 --------------------------| ----
 Triangle                  | [LINK](https://app.codility.com/demo/results/trainingYT87A2-BJH/ "100% result")
 MaxProductOfThree         | [LINK](https://app.codility.com/demo/results/trainingTCTY6F-AHZ/ "100% result")
-Distinct                  | [LINK](XYZ "100% result")
+Distinct                  | [LINK](https://app.codility.com/demo/results/training4W9S7D-Z6U/ "100% result")
 NumberOfDiscIntersections | [LINK](XYZ "100% result")
